@@ -1,34 +1,17 @@
-## Hi there 👋
-<!--
-**akash-kanar/akash-kanar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Akash
+# 👋 Hi, I'm Gayatri
 
 - 🔧 Full-Stack Developer based in Bhubaneswar, India.
-- 📬 How to reach me: [k.akashkumar2005@gmail.com](mailto:k.akashkumar2005@gmail.com)
+- 📬 How to reach me: [gayatrichoudhury24@gmail.com](mailto:gayatrichoudhury24@gmail.com)
 - 🧠 Solved 168+ LeetCode problems, showcasing strong skills in Java, C++, and Python.
 - 🌟 Starred projects like a Chatbot and Spotify Clone, shining with sleek UI and solid backend logic.
 - 🔗 Rocking a cool 400+ connections on [LinkedIn](https://www.linkedin.com/in/akash-kanar/)!
-- 🚀 Development sparked my coding passion—now it’s a lifelong affair! Dive into my [portfolio](#).
+- 🚀 Development sparked my coding passion—now it’s a lifelong affair! Dive into my [portfolio]().
 
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/akash-kanar/)
-[![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:k.akashkumar2005@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/ll___akashhh___ll/?hl=en)
-[![Leetcode](https://img.shields.io/badge/Leetcode-yellow?logo=leetcode&logoColor=black)](https://leetcode.com/u/akashkumar8917/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/gayatri-choudhury-6b7aa039b)
+[![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:gayatrichoudhury24@gmail.com)
 
 ---
 
